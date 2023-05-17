@@ -6,7 +6,7 @@ I'm a passionate web developer with expertise in HTML, CSS, and JavaScript. I en
 
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive Web Design
-- CSS frameworks (Bootstrap, Bulma)
+- CSS frameworks (Bootstrap, Tailwind)
 - Version control (Git, GitHub)
 - Web performance optimization
 - Cross-browser compatibility
